@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: "Bree Serif";
+    src: url("./fonts/BreeSerif-Regular.ttf") format("true-type");
+}
+html {
+    font-family: "Bree Serif" , serif;
+    font-size: 100%;
+}
